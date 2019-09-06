@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>flask_admin</name>
+  <version>0.0.0</version>
+  <description>The flask_admin package</description>
+
+  <maintainer email="ramon@ruvu.nl">Ramon Wijnands</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>python-flask</exec_depend>
+  <exec_depend>python-wtforms</exec_depend>
+</package>
